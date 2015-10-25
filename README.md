@@ -17,7 +17,7 @@ which can be used for further analysis. All the description and explanations for
     'features.txt': List of all features.
 
     'activity_labels.txt': List of class labels and their activity name.
-# Files in the training data set  
+### Files in the training data set  
 
     'train/X_train.txt': Training set for X values..
 
@@ -25,7 +25,7 @@ which can be used for further analysis. All the description and explanations for
 
     'train/subject_train.txt': ID's of subjects in the training data  
 
-# Files in the test data set.  
+### Files in the test data set.  
 
     'test/X_test.txt': Test set for X values.
 
